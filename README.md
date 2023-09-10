@@ -24,7 +24,7 @@ Later, you'll build a shopping cart and other applications to learn how to creat
 - [JavaScript Calculator]
 - [25 + 5 Clock]
 
-[Certificate] [certificate]
+[Certificate]
 
 
 [Certificate]: <https://freecodecamp.org/certification/vishwajeet_gade/front-end-development-libraries>
