@@ -1,0 +1,33 @@
+img {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+#editor-label {
+  background-color: pink;
+  width: 100%;
+  height: 30px;
+  position: relative;
+  z-index: 1;
+  top: 2px;
+  font-size: 18px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+  box-shadow: 1px 1px 10px 2px gray;
+}
+
+#previewer-label {
+  background-color: pink;
+  width: 100%;
+  height: 30px;
+  font-size: 18px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+  box-shadow: 1px 1px 10px 2px gray;
+}

@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+button {
+  position: relative;
+  height: 65px;
+  width: 80px;
+  color: white;
+  outline: 1px solid black;
+  background: #4d4d4d;
+  font-family: Share Tech Mono, monospace;
+  font-size: 20px;
+  cursor: default;
+}
+.calculator {
+  width: 328px;
+  background-color: black;
+  padding: 4px;
+  font-family: "Orbitron", sans-serif;
+}
+.big-btn {
+  width: 160px;
+}
+#clear {
+  background-color: red;
+}
+#equals {
+  position: absolute;
+  height: 130px;
+  background-color: blue;
+  z-index: 1;
+}
