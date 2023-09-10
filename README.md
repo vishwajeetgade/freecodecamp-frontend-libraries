@@ -18,11 +18,11 @@ In the Front End Development Libraries Certification, you'll learn how to style 
 Later, you'll build a shopping cart and other applications to learn how to create powerful Single Page Applications (SPAs) with React and Redux.
 
 ##### Projects completed:
-- [Random Quote Machine]
 - [Markdown Previewer]
 - [Drum Machine]
 - [JavaScript Calculator]
 - [25 + 5 Clock]
+- [Random Quote Machine]
 
 [Certificate]
 
